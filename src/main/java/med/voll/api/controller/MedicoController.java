@@ -44,7 +44,6 @@ MedicoController {
         medico.atualizarInformacoes(dados);
 
 
-
     }
 
 
